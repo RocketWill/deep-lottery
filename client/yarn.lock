@@ -4547,18 +4547,6 @@ react-native-screens@2.0.0-alpha.12:
   dependencies:
     debounce "^1.2.0"
 
-react-native-smart-timer-enhance@^1.0.2:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/react-native-smart-timer-enhance/-/react-native-smart-timer-enhance-1.0.3.tgz#47ddc19be5a6c19184449039495f25546bcd94fe"
-  integrity sha1-R93Bm+WmwZGERJA5SV8lVGvNlP4=
-
-react-native-smart-toast@^1.1.1:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/react-native-smart-toast/-/react-native-smart-toast-1.1.1.tgz#19fde8b8cc862bcd72e1143f79c42615f1fd1796"
-  integrity sha1-Gf3ouMyGK81y4RQ/ecQmFfH9F5Y=
-  dependencies:
-    react-native-smart-timer-enhance "^1.0.2"
-
 react-native-svg@9.13.3:
   version "9.13.3"
   resolved "https://registry.yarnpkg.com/react-native-svg/-/react-native-svg-9.13.3.tgz#6414b337d55af169ac2487ab70f3108404434446"
@@ -5326,9 +5314,9 @@ tmp@^0.0.33:
     os-tmpdir "~1.0.2"
 
 tmpl@1.0.x:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/tmpl/-/tmpl-1.0.4.tgz#23640dd7b42d00433911140820e5cf440e521dd1"
-  integrity sha1-I2QN17QtAEM5ERQIIOXPRA5SHdE=
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/tmpl/-/tmpl-1.0.5.tgz#8683e0b902bb9c20c4f726e3c0b69f36518c07cc"
+  integrity sha512-3f0uOEAQwIqGuWW2MVzYg8fV/QNnc/IpuJNG837rLuczAaLVHslWHZQj4IGiEl5Hs3kkbhwL9Ab7Hrsmuj+Smw==
 
 to-fast-properties@^2.0.0:
   version "2.0.0"
